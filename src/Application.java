@@ -31,7 +31,7 @@ public class Application {
 		
 		System.out.println(firstBox.toString());
 		System.out.println(secondBox.toString());
-		System.out.println();
+		System.out.println("");
 		
 	}
 
